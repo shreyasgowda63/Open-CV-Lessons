@@ -1,1 +1,1 @@
-# This repo consist of the lessons that i used to learn Open-CV
+# This repo consist of the lessons that I used to learn Open-CV. 
